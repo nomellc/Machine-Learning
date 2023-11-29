@@ -1,5 +1,5 @@
 # Machine-Learning
-2023-2 기계학습 24조<br><br>
+음원 가사 감성 분석
 
 `data`<br>
 train_csv : 훈련 데이터셋<br>
