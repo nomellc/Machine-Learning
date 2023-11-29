@@ -1,20 +1,16 @@
 # Machine-Learning
-2023-2 기계학습 24조
+2023-2 기계학습 24조<br><br>
 
-`data`
+`data`<br>
+train_csv : 훈련 데이터셋<br>
+test_csv : 테스트 데이터셋<br>
+music_info.csv : 음원 제목 및 가사 데이터<br><br>
 
-train_csv : 훈련 데이터셋
-test_csv : 테스트 데이터셋
-music_info.csv : 음원 제목 및 가사 데이터
-
-
-`words`
-
-stopwords-ko.txt : 불용어 사전
+`words`<br>
+stopwords-ko.txt : 불용어 사전<br><br>
 
 
-`data_analysis`
-
+`data_analysis`<br>
 lyrics_sentiment_analysis.ipynb : 음원 가사 감성 분석 코드
 
 
